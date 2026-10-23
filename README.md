@@ -70,7 +70,7 @@ Os critérios do livro foram **resumidos com palavras próprias**; o livro não 
 [CC BY-NC 4.0](LICENSE) — pode usar, adaptar e compartilhar **sem fins comerciais**, citando o autor *Carlaile L. do Vale*. Usar a skill para escrever os seus próprios artigos é permitido. Para uso comercial, contate o autor.
 
 ## Como citar
-VALE, Carlaile L. do. **Do TCC ao Artigo**: skill de IA para transformar trabalhos acadêmicos em artigos científicos. Versão 1.1.0. 2026. Disponível em: https://github.com/SEU-USUARIO/do-tcc-ao-artigo.
+VALE, Carlaile L. do. **Do TCC ao Artigo**: skill de IA para transformar trabalhos acadêmicos em artigos científicos. Versão 1.1.0. 2026. Disponível em: https://github.com/carlailevale/do-tcc-ao-artigo.
 
 ## Contribuições
 Sugestões e correções são bem-vindas via *Issues* ou *Pull Requests*, ou pelo e-mail carlailevale@gmail.com.
